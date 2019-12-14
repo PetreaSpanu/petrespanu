@@ -1,2 +1,2 @@
-# PetreaSpanu
+# petrespanu
 Depozitul meu de bunatati
