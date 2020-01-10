@@ -1,2 +1,2 @@
 # petrespanu
-Depozitul meu de bunatati
+Depozit resurse
